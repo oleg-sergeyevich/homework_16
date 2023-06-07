@@ -9,6 +9,8 @@ Files User.h and User.cpp: contain the definition and implementation of a User c
 
 Files Message.h and Message.cpp: contain the definition and implementation of a Message class. Instantiating an object with arguments (from, to, text).
 
+Files Autocomplete.h and Autocomplete.cpp: contain the definition and implementation of a Autocomplete class. Writing message text with autocomplete feature.
+
 Files Chat.h and Chat.cpp (main methods of the program):
 
 public:
